@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="pg-migrator icon">
+  <rect width="512" height="512" rx="96" fill="#080a08"/>
+  <rect x="34" y="34" width="444" height="444" rx="72" fill="#101410" stroke="#b8ff3d" stroke-width="18"/>
+  <g fill="#b8ff3d">
+    <rect x="126" y="154" width="32" height="204" rx="10"/>
+    <rect x="126" y="154" width="104" height="32" rx="10"/>
+    <rect x="206" y="154" width="32" height="112" rx="10"/>
+    <rect x="126" y="234" width="104" height="32" rx="10"/>
+    <rect x="274" y="154" width="120" height="32" rx="10"/>
+    <rect x="274" y="154" width="32" height="204" rx="10"/>
+    <rect x="274" y="326" width="120" height="32" rx="10"/>
+    <rect x="362" y="260" width="32" height="98" rx="10"/>
+    <rect x="330" y="260" width="64" height="32" rx="10"/>
+  </g>
+</svg>
