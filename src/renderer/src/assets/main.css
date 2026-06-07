@@ -143,6 +143,47 @@ button:disabled {
   gap: 10px;
 }
 
+.password-field {
+  position: relative;
+  min-width: 0;
+}
+
+.password-field input {
+  padding-right: 48px;
+}
+
+.reveal-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  display: inline-grid;
+  place-items: center;
+  width: 32px;
+  min-height: 32px;
+  border-color: transparent;
+  border-radius: 8px;
+  padding: 0;
+  background: transparent;
+  color: var(--muted);
+}
+
+.reveal-button:hover,
+.reveal-button[aria-pressed='true'] {
+  border-color: var(--border);
+  background: var(--panel-soft);
+  color: var(--accent);
+}
+
+.reveal-button svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+}
+
 .split-fields {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 250px;
