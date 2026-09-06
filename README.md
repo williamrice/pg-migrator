@@ -1,10 +1,6 @@
 # pg-migrator
 
-A desktop PostgreSQL database migration tool by Billy Rice.
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+A desktop PostgreSQL database migration tool
 
 ## Project Setup
 
